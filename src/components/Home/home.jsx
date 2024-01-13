@@ -79,8 +79,8 @@ const imageVariants = {
 };
 
 const ImageWrapper = styled.div`
-  width: 415px;
-  height: 520px;
+  width: 553px;
+  height: 580px;
 `;
 
 const Home = () => {
